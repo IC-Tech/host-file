@@ -1,2 +1,2 @@
-# host-file.net-backup
-backup of https://hosts-file.net/ad_servers.txt
+# host-file
+ad servers for ad-blocking on a network.
