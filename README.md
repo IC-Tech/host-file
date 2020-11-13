@@ -5,5 +5,5 @@ ad servers for ad-blocking on a network.
 filename | file size | hosts count
 -- | -- | --
 ad_servers.txt | 2276865 bytes | 65274
-adult_servers.txt | 355083 bytes | 13093
-ad_and_adult_servers.txt | 2627255 bytes | 78182
+adult_servers.txt | 382262 bytes | 14093
+ad_and_adult_servers.txt | 2654434 bytes | 79182
