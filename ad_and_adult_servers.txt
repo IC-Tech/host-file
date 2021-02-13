@@ -56777,7 +56777,6 @@
 127.0.0.1	soundbeat.go2cloud.org
 127.0.0.1	soundingexpulsioninspector.com
 127.0.0.1	soundslam.us.intellitxt.com
-127.0.0.1	sourceforge.net
 127.0.0.1	sourcepoint.vice.com
 127.0.0.1	sourtimes.org
 127.0.0.1	sousaira.com
@@ -79349,4 +79348,4 @@
 127.0.0.1	zzz.clickbank.net
 127.0.0.1	zzztube.com
 
-# Hosts: 79341
+# Hosts: 79340
